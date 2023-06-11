@@ -142,6 +142,9 @@ button {
 }
 
 /*=============== HEADER & NAV ===============*/
+.header {
+  position: fixed;
+}
 
 /* Change background header */
 
