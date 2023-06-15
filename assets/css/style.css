@@ -1527,6 +1527,13 @@ a {
     width: calc(33.33% - 20px);
   }
 
+  .service-card {
+    height: 600px; /* Adjust this value as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
   /**
    * PROPERTY
    */
